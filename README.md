@@ -1,1 +1,3 @@
-Exercícios desenvolvidos durante a disciplina de Linguagens Formais e Autômatos (INF-UFRGS).
+# Linguagens Formais e Autômatos
+### Semestre: 2019/2
+#### Professor: Lucio Mauro Duarte
